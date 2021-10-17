@@ -1,0 +1,7 @@
+/build/**
+!/build/.gitignore
+/.settings
+/META-INF
+/WEB-INF
+*/.classpath
+.project
